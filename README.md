@@ -3,6 +3,8 @@
 </div>
 <hr>
 <br>
+![Static Badge](https://img.shields.io/badge/React-black?style=flat&logo=react)
+
 <div align="center">
   ![Static Badge](https://img.shields.io/badge/React-black?style=flat&logo=react)
 
