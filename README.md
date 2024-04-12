@@ -1,6 +1,12 @@
 <div align="center">
   <h1>Hi there, I'm Dey ¡Nice to meet you! 👋</h1>
 </div>
+<hr>
+<br>
+<p align="center">
+  ![Static Badge](https://img.shields.io/badge/React-black?style=flat&logo=react)
+
+</p>
 <!--
 **DeyCasGuerrero/DeyCasGuerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
