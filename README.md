@@ -3,10 +3,10 @@
 </div>
 <hr>
 <br>
-<p align="center">
+<div align="center">
   ![Static Badge](https://img.shields.io/badge/React-black?style=flat&logo=react)
 
-</p>
+</div>
 <!--
 **DeyCasGuerrero/DeyCasGuerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
