@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Hi there, I'm Dey ¡Nice to meet you! 👋</h1>
 </div>
-<p align="center"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/DeyCasGuerrero?style=for-the-badge&logo=github&label=Views">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeyCasGuerrero&color=green"/> 
 </p>
 
 <p align="center">
