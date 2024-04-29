@@ -17,6 +17,7 @@ public Presentacion(){
    * 💻 `Favorite lang`: **TypeScript and Java**  
 }
 
+
 <hr>
 <h2 align="center"> Skills 💻 </h2>
 <div align="center">
@@ -43,5 +44,11 @@ public Presentacion(){
   <h2 align="center"> Providers 💬 </h2>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
+</div>
+
+##
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeyCasGuerrero&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeyCasGuerrero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
