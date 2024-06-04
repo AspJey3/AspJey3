@@ -44,7 +44,8 @@ public Presentacion(){
   <h2 align="center"> Providers 💬 </h2>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
- <img alt="Railway" src="https://img.shields.io/badge/Railway-6A5ACD.svg?logo=Railway&logoColor=white">
+  <img alt="Railway" src="https://img.shields.io/badge/Railway-6A5ACD.svg?logo=Railway&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-FFA000?logo=Firebase&color=black">
 </div>
 <hr>
 <div align="center">
