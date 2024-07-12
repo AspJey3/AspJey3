@@ -32,7 +32,8 @@ public Presentacion(){
   <img alt="Static Badge" src="https://img.shields.io/badge/SpringBot-green?style=flat&logo=spring&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue.svg?logo=mysql&logoColor=white">
   <img alt="Chakra" src="https://img.shields.io/badge/Chakra-%2348E5A6?style=flat&logo=Chakraui&logoColor=white">
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-blue?style=flat-square&logo=tailwind%20css&labelColor=black">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%23509EEF?logo=tailwind-css&labelColor=black">
+
 </div>
 <hr>
 <h2 align="center"> Softwares 🔭 </h2>
