@@ -33,7 +33,7 @@ public Presentacion(){
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue.svg?logo=mysql&logoColor=white">
   <img alt="Chakra" src="https://img.shields.io/badge/Chakra-%2348E5A6?style=flat&logo=Chakraui&logoColor=white">
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%23509EEF?logo=tailwind-css&labelColor=black">
-
+  <img alt="Static Badge" src="https://img.shields.io/badge/NestJS-black?logo=nestjs&logoColor=red">
 </div>
 <hr>
 <h2 align="center"> Softwares 🔭 </h2>
