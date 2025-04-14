@@ -12,7 +12,7 @@
 public Presentacion(){
    * 💬 `My name is`: **Deyvis**,
    * ⚡ `I'm`: **21 years old**,
-   * 😄 `I’m currently learning`: **Angular and Nestjs**,
+   * 😄 `I’m currently learning`: **Angular**,
    * ❤️ `I love`: **Play videogames**  ,
    * 💻 `Favorite lang`: **TypeScript and Java**  
 }
