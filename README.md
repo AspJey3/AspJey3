@@ -40,10 +40,12 @@ public Presentacion(){
 
 <h2 align="center"> Softwares 🔭 </h2>
 <div align="center">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/NetBeans-purple?style=flat&logo=apache&logoColor=white">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Intellij-%234261F7?style=flat&logo=intellij%20idea">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ClickUp-white?logo=clickup&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Trello-blue?logo=trello">
 </div>
 
 <div align="center">
@@ -51,7 +53,8 @@ public Presentacion(){
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
   <img alt="Railway" src="https://img.shields.io/badge/Railway-6A5ACD.svg?logo=Railway&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-FFA000?logo=Firebase&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-FFA000?logo=Firebase&color=FE9900">
+  <img alt="Static Badge" src="https://img.shields.io/badge/cloudflare-%23F1F2F1?logo=cloudflare">
 </div>
 
 <div align="center">
