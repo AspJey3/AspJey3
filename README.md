@@ -5,8 +5,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DeyCasGuerrero.DeyCasGuerrero&left_color=darkcyan&right_color=blue&left_text=Views"  />
 </div>
 
-<br/>
-
 <p align="center">
     <img src="https://i.pinimg.com/564x/15/bc/98/15bc984f09cf2eb04e17308311356844.jpg" alt="Mi imagen">
 </p>
@@ -18,8 +16,6 @@ public Presentacion(){
    * ❤️ `I love`: **Play videogames**  ,
    * 💻 `Favorite lang`: **TypeScript and Java**  
 }
-
-
 
 <h2 align="center"> Skills 💻 </h2>
 <div align="center">
@@ -58,6 +54,7 @@ public Presentacion(){
 </div>
 
 <div align="center">
+<br/>
   <img src="https://github-readme-stats.vercel.app/api?username=DeyCasGuerrero&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeyCasGuerrero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="152" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeyCasGuerrero&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
