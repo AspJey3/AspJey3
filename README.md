@@ -5,6 +5,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DeyCasGuerrero.DeyCasGuerrero&left_color=darkcyan&right_color=blue&left_text=Views"  />
 </div>
 
+<br/>
+
 <p align="center">
     <img src="https://i.pinimg.com/564x/15/bc/98/15bc984f09cf2eb04e17308311356844.jpg" alt="Mi imagen">
 </p>
@@ -18,7 +20,7 @@ public Presentacion(){
 }
 
 
-<hr>
+<br/>
 <h2 align="center"> Skills 💻 </h2>
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
@@ -35,7 +37,7 @@ public Presentacion(){
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%23509EEF?logo=tailwind-css&labelColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/NestJS-black?logo=nestjs&logoColor=red">
 </div>
-<hr>
+<br/>
 <h2 align="center"> Softwares 🔭 </h2>
 <div align="center">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
@@ -43,7 +45,7 @@ public Presentacion(){
   <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Intellij-%234261F7?style=flat&logo=intellij%20idea">
 </div>
-<hr>
+<br/>
 <div align="center">
   <h2 align="center"> Providers 💬 </h2>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
@@ -51,7 +53,7 @@ public Presentacion(){
   <img alt="Railway" src="https://img.shields.io/badge/Railway-6A5ACD.svg?logo=Railway&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-FFA000?logo=Firebase&color=black">
 </div>
-<hr>
+<br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeyCasGuerrero&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeyCasGuerrero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="152" alt="languages graph"  />
